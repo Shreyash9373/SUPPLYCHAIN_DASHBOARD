@@ -34,7 +34,7 @@ This dashboard answers the following business questions:
 
 ## 📷 Dashboard Preview
 
-![SUPPLYCHAIN_DASHBOARD](screenshots/SUPPLYCHAIN_DASHBOARD.png)
+![SUPPLYCHAIN_DASHBOARD](screenshot/SUPPLYCHAIN_DASHBOARD.png)
 
 ---
 
